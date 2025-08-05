@@ -13,7 +13,7 @@ An elegant and responsive e-commerce frontend built with **React.js**. Fresh Car
 - 🛍️ **Browse products, brands, and categories**
 - 💖 **Add/Remove items from wishlist**
 - 🛒 **Add to cart, remove from cart, and update item count**
-- 💳 **Payment (UI only)**
+- 💳 **Payment**
 - 🔍 **Search (coming soon)**
 - 📱 **Fully responsive design**
 - 📦 **Loading indicators & toasts**
