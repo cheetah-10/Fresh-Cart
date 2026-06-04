@@ -1,8 +1,7 @@
 # 🛒 Fresh Cart
 
 An elegant and responsive e-commerce frontend built with **React.js**. Fresh Cart offers a modern UI/UX experience with full user authentication, cart management, and product browsing.
-
-> ⚠️ This project is still under development. Features like search will be added soon.
+[Live Demo](https://fresh-cart-murex.vercel.app/)
 
 ## 🚀 Features
 
@@ -14,7 +13,7 @@ An elegant and responsive e-commerce frontend built with **React.js**. Fresh Car
 - 💖 **Add/Remove items from wishlist**
 - 🛒 **Add to cart, remove from cart, and update item count**
 - 💳 **Payment**
-- 🔍 **Search (coming soon)**
+- 🔍 **Search functionality (coming soon)**
 - 📱 **Fully responsive design**
 - 📦 **Loading indicators & toasts**
 
